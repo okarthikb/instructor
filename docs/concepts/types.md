@@ -116,7 +116,7 @@ print(resp)
 
 ## Enum
 
-Enums are harder to get right without some addition promping but are useful if these are values that are shared across the application.
+Enums are harder to get right without some addition prompting but are useful if these are values that are shared across the application.
 
 ```python
 import instructor
